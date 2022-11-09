@@ -1,0 +1,19 @@
+.main-title {
+    font-size: 72px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.recipe-link {
+    font-size: 26px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.recipe-title {
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.main-title, .recipe-title {
+    color: #a30065;
+}
